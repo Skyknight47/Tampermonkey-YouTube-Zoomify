@@ -20,11 +20,8 @@ While I'm not actively maintaining this repository, I will fix critical bugs eve
 Due to the nature of YouTube, YouTube's `<video>` element can be affected by its own CSS/layout when zoomed, particularly when using theatre mode. This may cause unexpected behaviour!
 
 ---
----
 
 
-To use, simply download your chosen Video only file, and Audio only file, select both of them and drag and drop onto your newly created ytCombine.bat file and hopefully in a very short amount of time, new file will be created that contains both the Video and Audio combined!  
-The created file will be an MKV file, this is simply because the MKV container supports many different types of codecs, making this script very easy to use.
 
 [FF Greasemonkey]: https://addons.mozilla.org/en-GB/firefox/addon/greasemonkey/ "Greasemonkey for Firefox"
 [FF Violentmonkey]: https://addons.mozilla.org/en-GB/firefox/addon/violentmonkey/ "Violentmonkey for Firefox"
